@@ -7,8 +7,9 @@ It can also be an inspiration of how to do stuff in bash.
 apt install i3blocks
 ```
 
-git clone  ~/.config/i3blocks
-
+```
+git clone https://github.com/uGeek/i3blocks.git ~/.config/i3blocks
+```
 
 ## NOT MAINTAINED ANYMORE!
 I am not using i3 on my laptop anymore and thus this repo has no maintainer anymore.
