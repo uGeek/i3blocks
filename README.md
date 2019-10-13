@@ -2,6 +2,14 @@
 This has become an incredible big collection of blocks in use with i3wm. 
 It can also be an inspiration of how to do stuff in bash.
 
+# Install
+```
+apt install i3blocks
+```
+
+git clone  ~/.config/i3blocks
+
+
 ## NOT MAINTAINED ANYMORE!
 I am not using i3 on my laptop anymore and thus this repo has no maintainer anymore.
 You can apply for maintaining it [here](https://github.com/Anachron/i3blocks/issues/47).
